@@ -135,5 +135,8 @@
       }
     }
   },
-  "defaultProject": "newstack"
+  "defaultProject": "newstack",
+  "cli": {
+    "defaultCollection": "@ngrx/schematics"
+  }
 }
